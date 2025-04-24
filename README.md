@@ -22,11 +22,11 @@ This is a simple React application that implements a click counter. It allows yo
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/Rita2024/React-counter-app.git>
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd <project_directory>
+    cd <React-counter-app>
     ```
 3.  **Install dependencies:**
     ```bash
